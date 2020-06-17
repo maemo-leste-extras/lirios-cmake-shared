@@ -1,0 +1,14 @@
+Source: liri-cmake-shared-dev
+Section: base
+Priority: optional
+Maintainer: Uvos <carl@uvos.xyz>
+Build-Depends:
+ cmake,
+Standards-Version: 3.9.1
+
+Package: liri-cmake-shared
+Architecture: all
+Depends:
+ cmake,
+Description: TI wilink6 configuration and callibration utility
+
