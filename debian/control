@@ -6,7 +6,7 @@ Build-Depends:
  cmake,
 Standards-Version: 3.9.1
 
-Package: liri-cmake-shared
+Package: liri-cmake-shared-dev
 Architecture: all
 Depends:
  cmake,
