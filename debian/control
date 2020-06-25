@@ -4,11 +4,13 @@ Priority: optional
 Maintainer: Uvos <carl@uvos.xyz>
 Build-Depends:
  cmake,
+ debhelper (>= 10),
 Standards-Version: 3.9.1
 
 Package: liri-cmake-shared-dev
 Architecture: all
 Depends:
  cmake,
+ debhelper (>= 10),
 Description: TI wilink6 configuration and callibration utility
 
