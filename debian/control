@@ -8,7 +8,7 @@ Build-Depends:
 Standards-Version: 3.9.1
 
 Package: liri-cmake-shared-dev
-Architecture: all
+Architecture: any
 Depends:
  cmake,
  debhelper (>= 10),
